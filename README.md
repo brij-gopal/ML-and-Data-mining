@@ -1,2 +1,2 @@
 # ML-and-Data-mining
-Practice questions on ML algorithms with solutions.
+Excercises on ML algorithms with solutions.
